@@ -1,0 +1,8 @@
+1. deleteOne():
+
+This method deletes only the first document that matches the specified condition.
+
+2. deleteMany():
+
+This method deletes all the documents that match the specified condition.
+
